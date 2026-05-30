@@ -1,0 +1,8 @@
+﻿# model weights
+models/*.pt
+models/*.pth
+yolov8x.pt
+# large outputs
+output_videos/
+runs/
+input_videos/
